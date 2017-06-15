@@ -1,0 +1,7 @@
+{
+    "IdentityPoolId": "us-east-1:4e577dc8-349f-42c0-a0d5-f5fd13b73c33", 
+    "Logins": {
+        "test.app": "test1"
+    }, 
+    "TokenDuration": 360
+}
